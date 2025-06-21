@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @FATHIMA-NS
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Fathima 👋
 
-<!---
-FATHIMA-NS/FATHIMA-NS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Engineering Graduate | 🧠 Aspiring AI Developer | 💻 Python & DSA Learner
+
+- 🌱 Currently learning: Python, DSA, AI Developer Career Path (Coursera)
+- 📚 Interested in Web Development, App Development, and Artificial Intelligence
+- ✍️ I love writing poems and sharing my learning journey through projects
+- 💼 Open to internships, collaborations, and tech opportunities
+
+🔗 Let's connect:  
+[LinkedIn](https://www.linkedin.com/in/fathima-ns-8a10a8254)
+
+---
+
+📌 **Upcoming Projects:**
+- Python Mini Projects 🐍  
+- DSA Practice with Explanations 🧮  
+- Beginner AI Projects 🤖
